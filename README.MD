@@ -1,2 +1,7 @@
 # Spotify Stream Tools 
-## Coded By Rev3rsX
+## Working
+
+* FollowBot == Working
+* Listen Streaming == Comming Soon
+* Account Generator == Comming Soon
+
