@@ -95,7 +95,7 @@ def banner():
 ┗┛┣┛┗┛┗┗┛┗┫  ┗┛ ┻ ┛┗┗┛┛┗┛ ┗   ┻ ┗┛┗┛┗┗┛\033[0mV1 Coded By Rev3rsX
   ┛       ┛                               
 #1 Followers Bot
-#2 Stream Bot
+#2 Listen Bot
 #3 Account Generator
 """
 
